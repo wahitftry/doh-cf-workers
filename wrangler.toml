@@ -7,3 +7,7 @@ main = "index.js"
 
 [placement]
 mode = "smart"
+
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
